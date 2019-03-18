@@ -1,0 +1,90 @@
+.movie {
+    background-image: url(img/background3.PNG);
+    background-size: contain;
+}
+
+h3 {
+    font-family: 'Chonburi', cursive;
+}
+.rental{
+    font-size: 20px;
+}
+}
+
+.logo {
+    text-align: center;
+}
+
+.movie-cover {
+    width: 300px;
+    height: 5`00px;
+    border-radius: 20%;
+}
+
+h2 {
+    text-align: center;
+    font-family: Chonburi;
+}
+
+#menu{
+    margin: 0px;
+    padding: 20px;
+    list-style:none;
+    display: inl
+}
+#menu li{
+    float: left;
+    width: 350px;
+    height: 50px;
+    background-color: violet;
+    opacity: .8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+}
+#menu li a{
+    text-decoration: none;
+    color:black;
+    display: block;
+    float: left;
+    padding: 0px 40px;
+    text-align: center;
+    line-height: 42px;
+    height: 42px;
+}
+#menu li a:hover{
+    background-color: plum;
+    color: blueviolet;
+    border-radius: 8px;
+}
+#menu li #drop li{
+    display: none;
+}
+#menu li:hover #drop li{
+    display: block;
+}
+p{
+    font-size: 20px;
+}
+.price{
+    font-size: 20px;
+}
+.bio li {
+    font-size: 20px;
+}
+.contact{
+    font-size: 20px;
+}
+.support{
+    font-size: 20px;
+}
+.newsletter{
+    font-size: 20px;
+}
+.search{
+    font-size: 20px;
+}
+.copyright{
+    font-size: 20px;
+}
